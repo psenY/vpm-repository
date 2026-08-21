@@ -1,4 +1,4 @@
-﻿import { baseLayerLuminance, StandardLuminance } from 'https://unpkg.com/@fluentui/web-components@2.6.1';
+import { baseLayerLuminance, StandardLuminance } from 'https://unpkg.com/@fluentui/web-components@2.6.1';
 
 const LISTING_URL = "https://psenY.github.io/vpm-repository/index.json";
 
@@ -20,6 +20,22 @@ const PACKAGES = {
     ],
     license: "GPL-3.0",
     licensesUrl: "https://github.com/psenY/VRCPhysBoneMerger/blob/main/LICENSE",
+  },
+  "pseny7.vrcpackageinspector": {
+    name: "pseny7.vrcpackageinspector",
+    displayName: "VRC Package Inspector (UnityPackage 极速预览与动骨分析器)",
+    description: "无需导入工程与零磁盘垃圾，直接在 Unity 内秒速探查 .unitypackage、ZIP、RAR 归档内的 Prefab、PhysBone、DynamicBone、材质及层级文件树。",
+    version: "1.1.0",
+    author: {
+      name: "psenY7",
+      url: "https://github.com/psenY",
+    },
+    dependencies: {},
+    keywords: [
+      "vrchat", "unitypackage", "inspector", "physbone", "dynamicbone", "fast-stream", "avatar"
+    ],
+    license: "GPL-3.0",
+    licensesUrl: "https://github.com/psenY/VRCPackageInspector/blob/main/LICENSE",
   },
 };
 
