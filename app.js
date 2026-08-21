@@ -7,7 +7,7 @@ const PACKAGES = {
     name: "pseny7.vrc.physbone-merger",
     displayName: "VRC PhysBone Merger (动骨合并与压缩工具)",
     description: "专为 VRChat 设计的高性能、非破坏性 (Non-Destructive) 动骨合并与优化工具。支持零风险严格匹配、智能碰撞体去重、实时性能等级预测及上传极晚期自动构建。",
-    version: "1.0.9",
+    version: "1.1.0",
     author: {
       name: "psenY7",
       url: "https://github.com/psenY",
