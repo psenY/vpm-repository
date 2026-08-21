@@ -1,6 +1,6 @@
-﻿# psenY7 VRC Tools - VPM Listing Repository
+# psenY7 VRC Tools - VPM Listing Repository
 
-[![VCC Add Repository](https://img.shields.io/badge/VCC-Add%20Repository-2ea44f?style=for-the-badge&logo=vrchat)](vcc://vpm/addRepo?url=https%3A%2F%2FpsenY.github.io%2Fvpm-repository%2Findex.json)
+[![VCC Add Repository](https://img.shields.io/badge/VCC-Add%20Repository-2ea44f?style=for-the-badge&logo=vrchat)](https://psenY.github.io/vpm-repository/)
 
 这是 **psenY7** 的 VRChat Creator Companion (VCC) & ALCOM 插件社区订阅源总仓库。
 
