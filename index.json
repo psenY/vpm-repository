@@ -21,15 +21,15 @@
         }
       }
     },
-    "pseny7.vrcpackageinspector": {
+    "pseny7.vrc.packageinspector": {
       "versions": {
         "1.1.0": {
-          "name": "pseny7.vrcpackageinspector",
+          "name": "pseny7.vrc.packageinspector",
           "displayName": "VRC Package Inspector (UnityPackage 极速预览与动骨分析器)",
           "version": "1.1.0",
           "description": "Blazing-fast zero-import inspector and stream analyzer for .unitypackage, .zip, and .rar archives with VRChat PhysBone, DynamicBone, mesh, and directory tree inspection.",
           "unity": "2019.4",
-          "url": "https://github.com/psenY/VRCPackageInspector/releases/download/v1.1.0/pseny7.vrcpackageinspector-1.1.0.zip",
+          "url": "https://github.com/psenY/VRCPackageInspector/releases/download/v1.1.0/pseny7.vrc.packageinspector-1.1.0.zip",
           "vpmDependencies": {},
           "legacyFolders": {},
           "legacyFiles": {}
