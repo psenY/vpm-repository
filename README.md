@@ -40,7 +40,7 @@
 
 | 插件名称 | Package ID | 最新版本 | 核心功能简介 | 仓库链接 |
 | :--- | :--- | :--- | :--- | :--- |
-| **🦴 VRC PhysBone Merger** | `pseny7.vrc.physbone-merger` | `1.1.6` | 纯非破坏性 VRChat 动骨合并与性能优化工具。支持零风险严格策略、智能碰撞体去重、实时性能等级预测及上传极晚期自动构建。 | [GitHub](https://github.com/psenY/VRCPhysBoneMerger) |
+| **🦴 VRC PhysBone Merger** | `pseny7.vrc.physbone-merger` | `1.2.0` | 纯非破坏性 VRChat 动骨合并与性能优化工具。支持零风险严格策略、智能碰撞体去重、Hierarchy 动骨数量徽章、实时性能等级预测及上传极晚期自动构建。 | [GitHub](https://github.com/psenY/VRCPhysBoneMerger) |
 | **📦 VRC Package Inspector** | `pseny7.vrc.packageinspector` | `1.1.0` | UnityPackage 极速免导入资源与动骨分析器。基于零磁盘纯内存管道流引擎，无需解压即可秒速探查包内 Prefab、PhysBone、DynamicBone、材质及层级文件树。 | [GitHub](https://github.com/psenY/VRCPackageInspector) |
 
 ---
